@@ -5,6 +5,16 @@ body {
     margin: 0rem;
     overflow: hidden;
   }
+
+  #title {
+    color: white;
+    display: flex;
+    justify-content: center;
+    padding: 12px;
+    font-size: 3rem;
+    margin-top: 25px;
+    font-family: 'Bebas Neue', sans-serif;
+  }
   
   #image-track {
     display: flex;
